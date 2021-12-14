@@ -237,6 +237,17 @@ company.
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
             <h3 class="resume-title">Professional Experience</h3>
             <div class="resume-item">
+              <h4>Jr. System Analyst</h4>
+              <h5>Jul 2021 - present</h5>
+              <p><em>Transcom Limited, Gulshan 2, DHAKA </em></p>
+              <ul>
+                <li>Developed modern web applications</li>
+                <li>Fixing Projects bugs</li>
+                <li>User support and handle the issues </li>
+                <li>Optimize unnecessary code</li>
+              </ul>
+            </div>
+            <div class="resume-item">
               <h4>Software Developer Intern</h4>
               <h5>Jul 2020 - Jan 2021</h5>
               <p><em>DINNO BD LIMITED, BANANI, DHAKA </em></p>
@@ -278,18 +289,35 @@ company.
           <div class="col-lg-12 d-flex justify-content-center">
             <ul id="portfolio-flters">
               <li data-filter="*" class="filter-active">All</li>
-              <li data-filter=".filter-app">App</li>
-              <li data-filter=".filter-card">Card</li>
               <li data-filter=".filter-web">Web</li>
+              <li data-filter=".filter-app">App</li>
+              <li data-filter=".filter-other">Others</li>
             </ul>
           </div>
         </div>
 
         <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="100">
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+         <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-1.png" class="img-fluid" alt="portfolio-1">
+              <img src="assets/img/portfolio/prothom-alo-1.png" class="img-fluid" alt="portfolio-1">
+              <div class="portfolio-links">
+                <a href="assets/img/portfolio/prothom-alo-1.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Prothom Alo Digital Ad Management System"><i class="bx bx-plus"></i></a>
+                <a href="/portfolio-9" title="More Details"><i class="bx bx-link"></i></a>
+              </div>
+            </div>
+          </div>
+         <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/dsr-1.png" class="img-fluid" alt="portfolio-1">
+              <div class="portfolio-links">
+                <a href="assets/img/portfolio/dsr-1.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Doctor Special Relationship"><i class="bx bx-plus"></i></a>
+                <a href="/portfolio-10" title="More Details"><i class="bx bx-link"></i></a>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/portfolio-1.PNG" class="img-fluid" alt="portfolio-1">
               <div class="portfolio-links">
                 <a href="assets/img/portfolio/portfolio-1.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Jade kitchen design website"><i class="bx bx-plus"></i></a>
                 <a href="/portfolio-1" title="More Details"><i class="bx bx-link"></i></a>
@@ -307,7 +335,7 @@ company.
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
               <img src="assets/img/portfolio/portfolio-3.png" class="img-fluid" alt="portfolio-3">
               <div class="portfolio-links">
@@ -317,7 +345,7 @@ company.
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
               <img src="assets/img/portfolio/portfolio-4.png" class="img-fluid" alt="portfolio-4.png">
               <div class="portfolio-links">
@@ -337,7 +365,7 @@ company.
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
               <img src="assets/img/portfolio/portfolio-6.png" class="img-fluid" alt="portfolio-6.png">
               <div class="portfolio-links">
@@ -347,7 +375,7 @@ company.
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
               <img src="assets/img/portfolio/portfolio-7.png" class="img-fluid" alt="">
               <div class="portfolio-links">
@@ -357,22 +385,12 @@ company.
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+          <div class="col-lg-4 col-md-6 portfolio-item filter-other">
             <div class="portfolio-wrap">
               <img src="assets/img/portfolio/portfolio-8.png" class="img-fluid" alt="portfolio-8.png">
               <div class="portfolio-links">
                 <a href="assets/img/portfolio/portfolio-8.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Pothhole and speed breaker detection"><i class="bx bx-plus"></i></a>
                 <a href="/portfolio-8" title="More Details"><i class="bx bx-link"></i></a>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-            <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-9.jpg" class="img-fluid" alt="">
-              <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-9.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>

@@ -47,5 +47,11 @@ Route::get('/portfolio-7', function () {
 Route::get('/portfolio-8', function () {
     return view('portfolio-8');
 });
+Route::get('/portfolio-9', function () {
+    return view('portfolio-9');
+});
+Route::get('/portfolio-10', function () {
+    return view('portfolio-10');
+});
 
 Route::post('/','ContactFormController@store')->name('contact.store');

@@ -93,15 +93,15 @@
               <div class="swiper-wrapper align-items-center">
 
                 <div class="swiper-slide">
-                  <img src="assets/img/portfolio/portfolio-1-details.png" alt="portfolio-1-details">
+                  <img src="assets/img/portfolio/prothom-alo-1.png" alt="portfolio-1-details">
                 </div>
 
                 <div class="swiper-slide">
-                  <img src="assets/img/portfolio/portfolio-2-details.png" alt="portfolio-2-details">
+                  <img src="assets/img/portfolio/prothom-alo-2.png" alt="portfolio-2-details">
                 </div>
 
                 <div class="swiper-slide">
-                  <img src="assets/img/portfolio/portfolio-3-details.png" alt="portfolio-3-details">
+                  <img src="assets/img/portfolio/prothom-alo-3.png" alt="portfolio-3-details">
                 </div>
 
               </div>
@@ -114,15 +114,15 @@
               <h3>Project information</h3>
               <ul>
                 <li><strong>Category</strong>: Web Development</li>
-                <li><strong>Client</strong>: Interior Design Company, Malaysia</li>
-                <li><strong>Project date</strong>: 12 January, 2021</li>
-                <li><strong>Project URL</strong>: <a href="http://jadekitchen.com.my/" target="blank">www.jadekitchen.com.my</a></li>
+                <li><strong>Client</strong>: Prothom Alo, Dhaka, Bangladesh</li>
+                <li><strong>Project date</strong>: 30 July, 2021</li>
+                <li><strong>Project URL</strong>: <a href="http://digital.erprnd.com/" target="blank">www.digitalerprnd.com</a></li>
               </ul>
             </div>
             <div class="portfolio-description">
-              <h2>This is a web development project</h2>
+              <h2>This is a web Application</h2>
               <p>
-               This web development project is developed in laravel framework. The website is developed for a Malaysian interior design company. I have developed the full backend part of this project and also developed some frontend.
+               This web application is developed in laravel, Vuejs. The website is developed for Prothom Alo where user can manage their advertisement and transactions.
               </p>
             </div>
           </div>
